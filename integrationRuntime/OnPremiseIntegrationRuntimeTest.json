@@ -1,6 +1,0 @@
-{
-	"name": "OnPremiseIntegrationRuntimeTest",
-	"properties": {
-		"type": "SelfHosted"
-	}
-}
